@@ -1,7 +1,7 @@
 ### Olá, sou Aline Martins, seja bem vindo ao meu Github. 👋
 
-- 🔭 Atualmente eu trabalho como Analista de Logística.
-- 🌱 Estou estudando HTML, CSS e JavaScript. 
+- 🔭 Atualmente eu trabalho como Analista Comercial.
+- 🌱 Estou estudando Tec em Análise e Desenvolvimento de Sistemas. 
 - ⚡ Sobre mim: eu sempre fui muito curiosa e percebi que após algum tempo no mesmo cargo, sempre fazendo exatamente as mesmas coisas, me encontrava entediada e em decorrência desmotivada, sempre gostei de desafios, sou competitiva e gosto sempre de apromorar meus conhecimentos, então entrei nesse desafio de aprender programação e percebi que é um caminho sem volta. Infinitas possibilidades e sempre tem algo que possa aprofundar e desenvolver.
 
 ##
